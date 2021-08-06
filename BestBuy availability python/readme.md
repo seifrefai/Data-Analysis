@@ -1,4 +1,4 @@
-##BestBuyButtonTracker
+## BestBuyButtonTracker
 
 For this project, The objective was to be able to check the status of the 'Add To Cart' button for a product on the BestBuy Website.
 I used the requests library in order to make a get request to the website and BeautifulSoup library in order to obtain the button and find out its current status. 
